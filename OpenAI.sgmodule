@@ -1,0 +1,4 @@
+#!name=OpenAI
+
+[Rule]
+DOMAIN-SUFFIX,openai.com,Apple
