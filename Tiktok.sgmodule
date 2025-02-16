@@ -1,0 +1,5 @@
+#!name=Tiktok
+
+[Rule]
+DOMAIN-SUFFIX,tiktok.com,Apple
+DOMAIN-SUFFIX,tiktokcdn.com,Apple
