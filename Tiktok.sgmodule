@@ -3,3 +3,6 @@
 [Rule]
 DOMAIN-SUFFIX,tiktok.com,Apple
 DOMAIN-SUFFIX,tiktokcdn.com,Apple
+DOMAIN-SUFFIX,tiktokcdn-us.com,Apple
+DOMAIN-SUFFIX,tiktokv.com, Apple
+DOMAIN-SUFFIX,tik-tokapi.com, Apple
