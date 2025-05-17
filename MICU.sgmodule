@@ -1,0 +1,4 @@
+#!name=MICU
+
+[Rule]
+DOMAIN-SUFFIX,micu.hk,DIRECT
